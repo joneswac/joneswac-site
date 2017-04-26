@@ -17,7 +17,7 @@ title: iamwpj @ Work
 email: wesley.jones@uni.edu
 description: > # this means to ignore newlines until "baseurl:"
   I work at UNI. Go Panthers Go!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://weblab.uni.edu/joneswac" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamwpj
 github_username:  iamwpj
